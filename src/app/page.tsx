@@ -209,7 +209,7 @@ export default function Home() {
             <div style={{ display: 'flex', justifyContent: 'center', gap: '3rem', flexWrap: 'wrap', marginBottom: '2rem' }}>
               <div>
                 <h4 style={{ color: 'var(--accent-1)' }}>Email</h4>
-                <p>fatmaj@aiesec.org</p>
+                <p>Fatmaj@aiesecus.org</p>
               </div>
               <div>
                 <h4 style={{ color: 'var(--accent-2)' }}>Phone</h4>
@@ -221,7 +221,7 @@ export default function Home() {
               </div>
             </div>
             <a 
-              href="https://mail.google.com/mail/?view=cm&fs=1&to=fatmaj@aiesec.org" 
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=Fatmaj@aiesecus.org" 
               target="_blank" 
               rel="noopener noreferrer"
               className="btn-primary"
